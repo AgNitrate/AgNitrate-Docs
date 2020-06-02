@@ -7,7 +7,7 @@ TL;DR Always try to play media at its original quality.
 - Additionally, it is recommended that you pin the libraries you want from my share to your home screen, for easy access. You can also unpin the default libraries provided by Plex if you find them annoying.  
 
 #### Sharing  
-- I sharing this with multiple people and use it myself. I also often do rendering and conversion jobs on the server that Plex is hosted on. Because of this, Plex may get unstable or laggy during heavy usage. If you're fine with that, then you can keep watching. Otherwise, stop and continue at another time. When I need the full resources of my server, I'll give a 30 minute warning to actively-watching users before shutting down Plex.  
+- I'm sharing this with multiple people and use it myself. I also often do rendering and conversion jobs on the server that Plex is hosted on. Because of this, Plex may get unstable or laggy during heavy usage. If you're fine with that, then you can keep watching. Otherwise, stop and continue at another time. When I need the full resources of my server, I'll give a 30 minute warning to actively-watching users before shutting down Plex.  
 
 #### Requesting  
 - I don't mind movie and TV show requests, but you shouldn't expect them to be filled, especially for huge TV shows that easily take up half a terabyte of storage. I also take requests for media at a better quality than what I currently have.
